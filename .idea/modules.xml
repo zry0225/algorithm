@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/ReverseStack/ReverseStack.iml" filepath="$PROJECT_DIR$/StackAndQueue/ReverseStack/ReverseStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackGetMin/StackGetMin.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackGetMin/StackGetMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/TowStackQueue/TowStackQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/TowStackQueue/TowStackQueue.iml" />
+    </modules>
+  </component>
+</project>
